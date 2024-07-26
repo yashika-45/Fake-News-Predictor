@@ -25,5 +25,11 @@ Input - Numerical vectors which represents news text.
 Output - Label indicating 'true' or 'false'
 
 
+**EVALUATION**
+
+The performance of the model is evaluated using the testing set. The following metrics are used to assess the model's accuracy and reliability:
+
+Accuracy: The percentage of correctly classified news articles.
+Precision: The ratio of true positive predictions to the total positive predictions.
 
 
